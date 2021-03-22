@@ -1,0 +1,19 @@
+{
+  "name": "netflixlandingpageclone",
+  "version": "1.0.0",
+  "description": "netfix landing page clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristopherAreche/Netflix-Landing-Page-Clone.git"
+  },
+  "author": "Cristopher Areche <cristopherareche764@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristopherAreche/Netflix-Landing-Page-Clone/issues"
+  },
+  "homepage": "https://github.com/CristopherAreche/Netflix-Landing-Page-Clone#readme"
+}
